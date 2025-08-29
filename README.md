@@ -55,7 +55,7 @@ npm install
 ```
 Em seguida, inicie o servidor de desenvolvimento:
 ```bash
-ng serve
+ng serve --open 
 ```
 O frontend estará disponível em: http://localhost:4200.
 
@@ -67,7 +67,7 @@ Contador de tarefas totais, pendentes e concluídas
 
 Opção para limpar todas as tarefas concluídas
 
-Interface estilizada com uma fonte pixelada
+Botão de Dark/Light mode
 
 ## ⚠️ Observações
 
